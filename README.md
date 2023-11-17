@@ -3,7 +3,7 @@
 ## Use Multiline JSX in a Component
 
 In this lesson, you will learn some common ways that JSX and React components work together. You’ll get more comfortable with both JSX and React components while picking up some new tricks.
-
+ 
 Take a look at this HTML:
 
 ```
